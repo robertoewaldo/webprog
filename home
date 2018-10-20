@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div id="navbar">
+		<ul>
+			<li><a href="home.html"></a>Home</li>
+			<li><a href="data.html"></a>Data</li>
+			<li><a href="location.html"></a>Location</li>
+			<li><a href="chart.html"></a>Today's Chart</li>
+			<li><a href="contact.html"></a>Contact Us</li>
+		</ul>
+
+	</div>
+
+	<div id="header">
+		<h1>SISTEM PERIKANAN ONLINE</h1>
+	</div>
+
+	<div id="content">
+		<h3>About Us</h3>
+		<p>Website ini menyediakan data tentang perikanan dan kelautan dari seluruh Indonesia.</p> 
+	</div>
+
+	<div id="chart">
+		<img src="images/chart1.png">
+		<img src="images/chart2.jpeg">
+		<img src="images/chart3.jpg">
+	</div>
+
+	<div id="footer">
+		www.sispo.com | &copy 2018
+	</div>
+</body>
+</html>
